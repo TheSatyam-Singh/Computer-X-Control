@@ -1,0 +1,24 @@
+# Core dependencies (install with: pip install -r requirements.txt)
+# Some packages may require system dependencies on Linux
+
+# Essential packages
+python-dotenv>=1.0.0
+psutil>=5.9.0
+
+# GUI automation (may require X11 on Linux)
+# pyautogui>=0.9.54
+
+# Image processing
+# pillow>=10.0.0
+# opencv-python>=4.8.0
+
+# LLM providers (choose one or both)
+# openai>=1.0.0
+# anthropic>=0.25.0
+
+# Web automation (optional)
+# selenium>=4.15.0
+# webdriver-manager>=4.0.0
+
+# Install manually if needed:
+# pip install pyautogui pillow opencv-python openai anthropic selenium webdriver-manager
