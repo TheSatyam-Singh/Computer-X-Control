@@ -1,0 +1,20 @@
+# Example commands for Computer-X-Control
+# Lines starting with # are comments and will be ignored
+
+# Take a screenshot first
+take a screenshot
+
+# Wait a moment
+wait 2 seconds
+
+# Basic typing example
+type Hello from Computer-X-Control!
+
+# Key press example
+press enter key
+
+# Mouse operation example
+move mouse to center of screen
+
+# Wait before finishing
+wait 1 second
